@@ -1,2 +1,4 @@
 # TinyServer
- 
+ -Apache
+ -PHP
+ -MySQL
